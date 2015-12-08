@@ -32,5 +32,5 @@ Comentarios Generales
 ### Ejemplo de consulta de sismos
 
 ```
-curl http://simos.yasserisa.com/v1/sismos
+curl http://sismos.yasserisa.com/v1/sismos
 ```
